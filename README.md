@@ -9,5 +9,5 @@
 
 ## Credits
 
-Created by Kidev as a fan tool for the community.<br/>
-Forked and developed by Axell (current decryptor).
+* &nbsp;&nbsp;Created by Kidev as a fan tool for the community.<br/>
+* &nbsp;&nbsp;Forked and developed by Axell (current decryptor).
