@@ -1,7 +1,7 @@
 ## TCOAAL Decryptor
 
 **A tool to decrypt [The Coffin of Andy and Leyley](https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/) (by Nemlei) and restore the original filenames.**
-> * For game versions 3.0.0+ <br>
+> * **For game versions 3.0.0+** <br>
 > * **Requires owning the game to work.**
 
 ## Installation & Running
